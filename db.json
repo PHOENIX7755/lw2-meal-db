@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Олександр",
+      "email": "alex@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Марія",
+      "email": "maria@example.com"
+    }
+  ],
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Шоколадний торт",
+      "category": "Dessert",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Полуничний чізкейк",
+      "category": "Dessert",
+      "userId": 2
+    }
+  ]
+}
